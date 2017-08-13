@@ -15,8 +15,6 @@ We need 2 page and one model popup design based on above stack.
 
 #### API
 - [Project list](https://raw.githubusercontent.com/izinga/UI_DEMO/master/json/project_list.json)
-
-
 - [Project image](https://raw.githubusercontent.com/izinga/UI_DEMO/master/json/project_image.json)
 
 ### Project  Page 
