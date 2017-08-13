@@ -1,18 +1,18 @@
 # UI developer demo project 
 
-##UI Technology Stack
+## UI Technology Stack
 
 - HTML5
 - CSS3
 - [vuejs](https://vuejs.org)
 
 
-##Requirement 
+## Requirement 
 We need 2 page and one model popup design based on above stack. 
 
-###Project List Page 
+### Project List Page 
 ![](https://raw.githubusercontent.com/izinga/UI_DEMO/master/screenshot/project_list.png)
-####API
+#### API
 - [Project list](https://raw.githubusercontent.com/izinga/UI_DEMO/master/json/project_list.json)
 
 
@@ -22,11 +22,11 @@ We need 2 page and one model popup design based on above stack.
 ####API
 - [Project Detail](https://raw.githubusercontent.com/izinga/UI_DEMO/master/json/project_detail.json)
 
-###Device Selection Model PopUp
+### Device Selection Model PopUp
 ![](https://raw.githubusercontent.com/izinga/UI_DEMO/master/screenshot/device_select.png)
 ####API
 - [Devcie List](https://raw.githubusercontent.com/izinga/UI_DEMO/master/json/device_list.json)
 
-###Support 
+### Support 
 For best practices please refer [examples](https://vuejs.org/v2/examples/)
 
