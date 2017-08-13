@@ -1,0 +1,93 @@
+{
+    "users": {
+        "5954c54e9b9e467b8b713fe7": {
+            "email": "omnarayan@robustest.com",
+            "id": "5954c54e9b9e467b8b713fe7",
+            "name": "omnarayan@robustest.com"
+        }
+    },
+    "apps": [
+        {
+            "project": "5958c5a89b9e46c556916891",
+            "last": {
+                "$date": 1502115885658
+            },
+            "extra": {},
+            "url": "",
+            "packageName": "com.citiuat",
+            "label": "Citibank IN  ",
+            "activityClass": "com.citiuat.mobeix",
+            "user": "5954c54e9b9e467b8b713fe7",
+            "versionName": "4.0",
+            "versionCode": "4",
+            "test_c": 0,
+            "_id": {
+                "$oid": "59882ad56711e905a01d392e"
+            },
+            "os": "android",
+            "desc": "new build"
+        },
+        {
+            "project": "5958c5a89b9e46c556916891",
+            "last": {
+                "$date": 1499770140788
+            },
+            "extra": {},
+            "url": "",
+            "packageName": "com.citiuat",
+            "label": "Citibank IN  ",
+            "activityClass": "com.citiuat.mobeix",
+            "user": "5954c54e9b9e467b8b713fe7",
+            "versionName": "4.0",
+            "versionCode": "4",
+            "test_c": 0,
+            "_id": {
+                "$oid": "59645fc49b9e46845e9aefac"
+            },
+            "os": "android",
+            "desc": "new build"
+        },
+        {
+            "project": "5958c5a89b9e46c556916891",
+            "last": {
+                "$date": 1499009792661
+            },
+            "extra": {},
+            "url": "",
+            "packageName": "com.citiuat",
+            "label": "Citibank IN  ",
+            "activityClass": "com.citiuat.mobeix",
+            "user": "5954c54e9b9e467b8b713fe7",
+            "versionName": "4.0",
+            "versionCode": "4",
+            "test_c": 0,
+            "_id": {
+                "$oid": "5958c5a89b9e46c556916892"
+            },
+            "os": "android",
+            "desc": "Build description"
+        }
+    ],
+    "bugRepo": {
+        "username": "aish@robustest.com",
+        "project": "5958c5a89b9e46c556916891",
+        "password": "",
+        "extra": {},
+        "server": "https://robustest.atlassian.net",
+        "repo": "jira",
+        "key": "ROBO",
+        "_id": {
+            "$oid": "595bed349b9e4638eaef6b5c"
+        }
+    },
+    "admins": {
+        "5954c54e9b9e467b8b713fe7": {
+            "email": "omnarayan@robustest.com",
+            "id": "5954c54e9b9e467b8b713fe7",
+            "name": "omnarayan@robustest.com"
+        }
+    },
+    "os": "android",
+    "id": "5958c5a89b9e46c556916891",
+    "name": "Citibank Aish"
+}

@@ -1,0 +1,84 @@
+{
+        "5983eb186711e9a944035408": {
+            "admin": [
+                "5954c54e9b9e467b8b713fe7"
+            ],
+            "lastUsed": 1502392243,
+            "os": "deviceOnly",
+            "id": "5983eb186711e9a944035408",
+            "name": "device"
+        },
+        "596495a89b9e46a3c497e4de": {
+            "admin": [
+                "595428049b9e46bb20b63b8f",
+                "5954c54e9b9e467b8b713fe7"
+            ],
+            "lastUsed": 1501750028,
+            "os": "android",
+            "id": "596495a89b9e46a3c497e4de",
+            "name": "Citbank GA Demo"
+        },
+        "5958c3d49b9e46c55691688d": {
+            "admin": [
+                "5954c54e9b9e467b8b713fe7"
+            ],
+            "lastUsed": 1501770859,
+            "os": "web",
+            "id": "5958c3d49b9e46c55691688d",
+            "name": "CNN"
+        },
+        "5958c5a89b9e46c556916891": {
+            "admin": [
+                "5954c54e9b9e467b8b713fe7"
+            ],
+            "lastUsed": 1502526184,
+            "os": "android",
+            "id": "5958c5a89b9e46c556916891",
+            "name": "Citibank Aish"
+        },
+        "596afcea6711e90efe7f5a35": {
+            "admin": [
+                "5954c54e9b9e467b8b713fe7"
+            ],
+            "lastUsed": 1502254152,
+            "os": "android",
+            "id": "596afcea6711e90efe7f5a35",
+            "name": "locus"
+        },
+        "598eae936711e9e57c8201c9": {
+            "admin": [
+                "5954c54e9b9e467b8b713fe7"
+            ],
+            "lastUsed": 1502524561,
+            "os": "android",
+            "id": "598eae936711e9e57c8201c9",
+            "name": "Amazon"
+        },
+        "595bfb9ecc42cb5504f85b83": {
+            "admin": [
+                "5954c54e9b9e467b8b713fe7"
+            ],
+            "lastUsed": 1500209766,
+            "os": "iOS",
+            "id": "595bfb9ecc42cb5504f85b83",
+            "name": "ssss"
+        },
+        "598327096711e93b9aecd0f9": {
+            "admin": [
+                "5954c54e9b9e467b8b713fe7"
+            ],
+            "lastUsed": 1502434079,
+            "os": "deviceOnly",
+            "id": "598327096711e93b9aecd0f9",
+            "name": "Device Only"
+        },
+        "596709ac9b9e46887773751c": {
+            "admin": [
+                "5954c54e9b9e467b8b713fe7"
+            ],
+            "lastUsed": 1502254045,
+            "os": "android",
+            "id": "596709ac9b9e46887773751c",
+            "name": "ebay"
+        }
+    }
