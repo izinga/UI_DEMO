@@ -29,6 +29,15 @@ We need 2 page and one model popup design based on above stack.
 #### API
 - [Devcie List](https://raw.githubusercontent.com/izinga/UI_DEMO/master/json/device_list.json)
 
+### Expectation 
+We are expecting production ready pages. We will evaluate based on following 
+- Responsive Design 
+- Vuejs project setup 
+- Build Process 
+
 ### Support 
-For best practices please refer [examples](https://vuejs.org/v2/examples/)
+- For rest api please use [http mock up](http://matthiashager.com/blog/mocking-http-requests-with-vuejs) 
+- For build process please [vue-cli](refer https://github.com/vuejs/vue-cli)
+- For best practices and project structure please refer [examples](https://vuejs.org/v2/examples/)
+
 
