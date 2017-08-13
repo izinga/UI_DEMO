@@ -37,7 +37,7 @@ We are expecting production ready pages. We will evaluate based on following
 
 ### Support 
 - For rest api please use [http mock up](http://matthiashager.com/blog/mocking-http-requests-with-vuejs) 
-- For build process please [vue-cli](refer https://github.com/vuejs/vue-cli)
+- For build process please refer [vue-cli](https://github.com/vuejs/vue-cli)
 - For best practices and project structure please refer [examples](https://vuejs.org/v2/examples/)
 
 
